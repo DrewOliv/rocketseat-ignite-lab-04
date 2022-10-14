@@ -20,6 +20,6 @@ module.exports = {
       config.base = '/rocketseat-ignite-lab-04/'
     }
 
-    return config
+    return config 
   }
 }
